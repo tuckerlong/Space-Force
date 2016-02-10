@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ imageSetup()
+comment1.params=
+comment1.target=void\ customAct()
+comment2.params=
+comment2.target=void\ applyLogic()
+comment3.params=dmg
+comment3.target=void\ damage(int)
+comment4.params=
+comment4.target=void\ remove()
+comment5.params=
+comment5.target=boolean\ goodSpawn()
+numComments=6

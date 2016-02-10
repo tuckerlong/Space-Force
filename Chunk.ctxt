@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=moveX\ moveY
+comment0.target=Chunk(float,\ float)
+comment1.params=
+comment1.target=void\ imageSetup()
+comment2.params=
+comment2.target=void\ customAct()
+numComments=3

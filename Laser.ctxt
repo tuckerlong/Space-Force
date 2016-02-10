@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=target
+comment0.target=Laser(Asteroid)
+comment1.params=
+comment1.target=void\ imageSetup()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

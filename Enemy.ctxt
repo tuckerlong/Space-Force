@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ customAct()
+comment1.params=
+comment1.target=void\ applyLogic()
+comment2.params=dmg
+comment2.target=void\ damage(int)
+numComments=3

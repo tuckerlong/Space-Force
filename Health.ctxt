@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=cur\ max
+comment1.target=void\ update(int,\ int)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sheet
+comment0.target=SpriteSheetReader(java.lang.String)
+comment1.params=xml
+comment1.target=boolean\ readXML(java.lang.String)
+comment2.params=sprite
+comment2.target=greenfoot.GreenfootImage\ getSprite(java.lang.String)
+numComments=3
