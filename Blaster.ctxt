@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=target\ source
-comment0.target=Blaster(greenfoot.Actor,\ Enemy)
-comment1.params=
-comment1.target=void\ imageSetup()
-comment2.params=
-comment2.target=void\ act()
-numComments=3
